@@ -1,5 +1,9 @@
 # 🚢 Titanic Survival Prediction
 
+![Kaggle Score](https://img.shields.io/badge/Kaggle%20Score-0.74162-blue?style=for-the-badge&logo=kaggle)
+![Python](https://img.shields.io/badge/Python-3.11-green?style=for-the-badge&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Random%20Forest-orange?style=for-the-badge&logo=scikit-learn)
+
 > 🇬🇧 [English](#-english) | 🇹🇷 [Türkçe](#-türkçe)
 
 ---
@@ -50,18 +54,20 @@ titanic-project/
 
 ### 📊 Sample Visualizations
 
-<p align="center">
-  <img src="figures/survival_by_gender.png" width="45%" alt="Survival by Gender" />
-  <img src="figures/survival_by_class.png" width="45%" alt="Survival by Class" />
-</p>
-<p align="center">
-  <img src="figures/age_analysis.png" width="45%" alt="Age Analysis" />
-  <img src="figures/correlation_matrix.png" width="45%" alt="Correlation Matrix" />
-</p>
-<p align="center">
-  <img src="figures/feature_importance.png" width="45%" alt="Feature Importance" />
-  <img src="figures/family_size_survival.png" width="45%" alt="Family Size Survival" />
-</p>
+<table>
+  <tr>
+    <td><img src="figures/survival_by_gender.png" width="400" alt="Survival by Gender" /></td>
+    <td><img src="figures/survival_by_class.png" width="400" alt="Survival by Class" /></td>
+  </tr>
+  <tr>
+    <td><img src="figures/age_analysis.png" width="400" alt="Age Analysis" /></td>
+    <td><img src="figures/correlation_matrix.png" width="400" alt="Correlation Matrix" /></td>
+  </tr>
+  <tr>
+    <td><img src="figures/feature_importance.png" width="400" alt="Feature Importance" /></td>
+    <td><img src="figures/family_size_survival.png" width="400" alt="Family Size Survival" /></td>
+  </tr>
+</table>
 
 ### ⚙️ Methodology
 
@@ -172,18 +178,20 @@ titanic-project/
 
 ### 📊 Örnek Görselleştirmeler
 
-<p align="center">
-  <img src="figures/survival_by_gender.png" width="45%" alt="Cinsiyete Göre Hayatta Kalma" />
-  <img src="figures/survival_by_class.png" width="45%" alt="Sınıfa Göre Hayatta Kalma" />
-</p>
-<p align="center">
-  <img src="figures/age_analysis.png" width="45%" alt="Yaş Analizi" />
-  <img src="figures/correlation_matrix.png" width="45%" alt="Korelasyon Matrisi" />
-</p>
-<p align="center">
-  <img src="figures/feature_importance.png" width="45%" alt="Özellik Önem Sıralaması" />
-  <img src="figures/family_size_survival.png" width="45%" alt="Aile Büyüklüğü ve Hayatta Kalma" />
-</p>
+<table>
+  <tr>
+    <td><img src="figures/survival_by_gender.png" width="400" alt="Cinsiyete Göre Hayatta Kalma" /></td>
+    <td><img src="figures/survival_by_class.png" width="400" alt="Sınıfa Göre Hayatta Kalma" /></td>
+  </tr>
+  <tr>
+    <td><img src="figures/age_analysis.png" width="400" alt="Yaş Analizi" /></td>
+    <td><img src="figures/correlation_matrix.png" width="400" alt="Korelasyon Matrisi" /></td>
+  </tr>
+  <tr>
+    <td><img src="figures/feature_importance.png" width="400" alt="Özellik Önem Sıralaması" /></td>
+    <td><img src="figures/family_size_survival.png" width="400" alt="Aile Büyüklüğü ve Hayatta Kalma" /></td>
+  </tr>
+</table>
 
 ### ⚙️ Metodoloji
 
